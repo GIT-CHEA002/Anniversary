@@ -52,7 +52,6 @@ export default function LetterPage() {
             </div>
           </div>
         </div>
-
         <PhotoSlider />
       </div>
     </section>
