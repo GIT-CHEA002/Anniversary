@@ -26,7 +26,7 @@ export default function About() {
           it's you.
         </p>
         <p className="font-display italic text-brand-deep text-[19px] mt-9">
-          — with love, always
+          — with love, always from Sokchea
         </p>
       </div>
     </section>
