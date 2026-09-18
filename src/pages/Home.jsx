@@ -10,7 +10,7 @@ export default function Home({ setPage }) {
     >
       <div className="text-sm text-brand-rose/85 mb-1.5">To Heang Chenda</div>
       <h1 className="font-display italic font-medium text-brand-deep text-[clamp(48px,10vw,88px)] leading-[1.05] m-0 mb-2.5">
-        Happy Anniversary
+        Happy Anniversary 2 Months My Chenda 
       </h1>
       <p className="text-base text-brand-ink/75 max-w-[420px] m-0 mb-14">
         A small corner of the internet, made just for you — July 21st.
