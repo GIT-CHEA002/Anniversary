@@ -30,7 +30,7 @@ export default function PhotoSlider() {
         </div>
       </div>
       <div className="font-display italic text-brand-deep text-base mt-3.5">
-        Chenda ♡
+        My Chenda ♡
       </div>
       <div className="flex gap-1.5 justify-center mt-3">
         {PHOTOS.map((_, i) => (
