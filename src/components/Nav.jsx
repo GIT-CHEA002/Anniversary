@@ -9,7 +9,7 @@ export default function Nav({ page, setPage }) {
   return (
     <nav className="fixed top-0 inset-x-0 z-10 flex items-center justify-between px-5 sm:px-8 lg:px-14 py-5 bg-brand-white/80 backdrop-blur-md border-b border-brand-line">
       <div className="font-display italic text-xl sm:text-2xl text-brand-deep">
-        H &amp; C
+        S &amp; C
       </div>
       <ul className="flex gap-3 sm:gap-6 lg:gap-8 list-none m-0 p-0">
         {NAV_ITEMS.map(([id, label]) => (
