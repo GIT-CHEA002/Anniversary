@@ -17,7 +17,7 @@ const STORY_ITEMS = [
   [
     'july 21st',
     'Today, and Always',
-    'Here we are — still choosing each other. Happy anniversary, Chenda.',
+    'Here we are — still choosing each other. Happy anniversary 2 Months , My Chenda.',
   ],
 ];
 
